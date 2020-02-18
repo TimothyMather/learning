@@ -1,0 +1,33 @@
+.main {
+    border: 1px solid green;
+    flex-grow: 3;
+}
+
+.sidebar {
+    border: 1px solid saddlebrown;
+    padding: 8px;
+    
+}
+.sidebar p {
+    white-space: normal;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+html, body {
+    height: 100%;
+}
+
+.body {
+    height: 90%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer {
+    height: 10%;
+    border: 1px solid pink;
+}
