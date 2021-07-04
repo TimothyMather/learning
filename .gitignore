@@ -1,0 +1,4 @@
+**/*.blend1
+**/*.stl
+**/*.ctb
+.DS_Store
